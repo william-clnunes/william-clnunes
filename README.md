@@ -1,15 +1,3 @@
-<!--
-<banner>
-  <img align="center" src="https://github.com/william-clnunes/william-clnunes/assets/172317918/f6510cab-2e4d-4215-9236-51ad5f3e4c90" width="100%" alt="banner"/>
-</banner>
-<br>
-<br>
--->
-<div align="center">
-  <img src="https://github.com/william-clnunes/william-clnunes/assets/172317918/f6510cab-2e4d-4215-9236-51ad5f3e4c90" width="600px"/>
-</div>
-<br>
-<br>
 <div align="center">
   <img src="https://github.com/william-clnunes/william-clnunes/assets/172317918/f6510cab-2e4d-4215-9236-51ad5f3e4c90"/>
 </div>
