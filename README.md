@@ -3,30 +3,30 @@
   <img src="https://github.com/william-clnunes/william-clnunes/assets/172317918/f6510cab-2e4d-4215-9236-51ad5f3e4c90"/>
 </div>
 
-## Hi there 👋 (in construction)
+## About Me
 <!-- Presentation -->
 <p>
-  Mussum Ipsum, cacilds vidis litro abertis.  Leite de capivaris, leite de mula manquis sem cabeça. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Atirei o pau no gatis, per gatis num morreus. Suco de cevadiss deixa as pessoas mais interessantis.
+Hey! Welcome, I'm William but you can call me Will. I'm a very curious engineer who decided to venture into the world of technology and ended up migrating to this area and becoming an enthusiast of the data universe. I have been working with technology since 2021 and am currently specializing in Data Science.
+
+Feel free to connect with me if you share a passion for data, technology, or just want to exchange ideas. I'm always open to collaborations and discussions on data-related topics.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
-  <br>
-  Mussum Ipsum, cacilds vidis litro abertis.  Cevadis im ampola pa arma uma pindureta. Negão é teu passadis, eu sou faxa pretis. Quem manda na minha terra sou euzis! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+  <summary><img align="center" height="22" weidht="27" src="https://img.icons8.com/?size=100&id=N07GMBCvCLTY&format=png&color=000000"> pt-BR</summary><br>
   
-  Bota 1 metro de cachacis aí pra viagem! Paisis, filhis, espiritis santis. Quem num gosta di mé, boa gentis num é. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.
+  Ei! Seja bem vindo, eu sou William mas pode me chamar de Will. Sou um engenheiro muito curioso que resolveu se aventurar pelo mundo da tecnologia e acabei migrando para essa área e me tornando um entusiasta do universo de dados. Trabalho desde 2021 com tecnologia e atualmente estou me especializando em Data Science.
   
-  Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. A ordem dos tratores não altera o pão duris. Detraxit consequat et quo num tendi nada. Casamentiss faiz malandris se pirulitá.
+  Sinta-se à vontade para entrar em contato comigo se você compartilha uma paixão por dados, tecnologia ou apenas deseja trocar ideias. Estou sempre aberto a colaborações e discussões sobre temas relacionados a dados.
 
-</details>
+</details><br>
 
 <!-- Contacts & Social Media -->
 <div>
   <a href="https://www.linkedin.com/in/william-clnunes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:wcl.nunes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-</div>
+</div><br>
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -35,19 +35,17 @@
 - [Interactive Data Visualization]()
 - [Data Querying and Analysis]()
 - [Client Registry System]()
+<br>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
+## Tecnhologies I know
+<!-- Programming Languages -->
   <div>
-    <h3>Programming Languages</h3>
     <img align="center" alt="Python" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
     <img align="center" alt="Java" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" alt="JavaScript" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div>
-    <h3>Tools & Frameworks</h3>
+    <br>
+    <br>
+  <!-- Tools & Frameworks -->
     <img align="center" alt="Anaconda" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"/>
     <img align="center" alt="VScode" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     <img align="center" alt="Git" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -63,7 +61,7 @@
     <img align="center" alt="AWS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
     <img align="center" alt="GCP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"/>
     <img align="center" alt="Postman" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
-  </div>
+  </div><br>
     <!-- in progress
     <img align="center" alt="MongoDB" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
     <img align="center" alt="NodeJs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
@@ -81,7 +79,7 @@
   </div>         
   -->
   
-## **GitHub Status**
+## **GitHub Statistics**
 <div align="center">
   <a href="https://github.com/william-clnunes">
   <img
