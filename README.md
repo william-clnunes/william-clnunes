@@ -29,7 +29,7 @@ Feel free to connect with me if you share a passion for data, technology, or jus
 </div><br>
 
 <!-- Portfolio -->
-## Portfolio:
+## Portfolio
 - [Seaborn Data Visualization]()
 - [Exploratory Data Analysis]()
 - [Interactive Data Visualization]()
