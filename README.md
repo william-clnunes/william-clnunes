@@ -77,7 +77,7 @@ Feel free to connect with me if you share a passion for data, technology, or jus
     <img align="center" alt="SQLA" width="40" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/>
     <img align="center" alt="Scikit-learn" width="40" height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   </div>         
-  
+  -->
 ## **GitHub Statistics**
 <div align="center">
   <a href="https://github.com/william-clnunes">
