@@ -25,7 +25,7 @@ Feel free to connect with me if you share a passion for data, technology, or jus
 <div>
   <a href="https://www.linkedin.com/in/william-clnunes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:wcl.nunes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+  <a href="https://www.kaggle.com/williamclnunes" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 </div><br>
 
 <!-- Portfolio -->
@@ -79,7 +79,19 @@ Feel free to connect with me if you share a passion for data, technology, or jus
   </div>         
   -->
 
-    
+## **GitHub Statistics**
+<div align="center">
+  <a href="https://github.com/william-clnunes">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=william-clnunes&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&bg_color=011727&title_color=c08fe5&icon_color=4cdfd2&text_color=feb5bd&rank_icon=github"
+    width="400em" 
+  />  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-clnunes&layout=compact&bg_color=011727&title_color=c08fe5&icon_color=4cdfd2&text_color=feb5bd"
+    width="400em"
+  />
+</div>
+
 <!--
 **william-clnunes/william-clnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
