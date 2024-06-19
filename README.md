@@ -6,7 +6,7 @@
 ## About Me
 <!-- Presentation -->
 <p>
-Hey! Welcome, I'm William but you can call me Will. I'm a very curious engineer who decided to venture into the world of technology and ended up migrating to this area and becoming an enthusiast of the data universe. I have been working with technology since 2021 and am currently specializing in Data Science.
+Hey! Welcome, I'm William but you can call me Will. I'm a very curious engineer who decided to venture into the world of technology and ended up migrating to this area, and becoming an enthusiast of the data universe. I have been working with technology since 2021 and am currently specializing in Data Science.
 
 Feel free to connect with me if you share a passion for data, technology, or just want to exchange ideas. I'm always open to collaborations and discussions on data-related topics.
 </p>
@@ -15,9 +15,9 @@ Feel free to connect with me if you share a passion for data, technology, or jus
 <details>
   <summary><img align="center" height="22" weidht="27" src="https://img.icons8.com/?size=100&id=N07GMBCvCLTY&format=png&color=000000"> pt-BR</summary><br>
   
-  Ei! Seja bem vindo, eu sou William mas pode me chamar de Will. Sou um engenheiro muito curioso que resolveu se aventurar pelo mundo da tecnologia e acabei migrando para essa área e me tornando um entusiasta do universo de dados. Trabalho desde 2021 com tecnologia e atualmente estou me especializando em Data Science.
+  Ei! Seja bem vindo, me chamo William mas você pode me chamar de Will. Sou um engenheiro muito curioso que resolveu se aventurar pelo mundo da tecnologia e acabei migrando para essa área, e me tornando um entusiasta do universo de dados. Trabalho desde 2021 com tecnologia e atualmente estou me especializando em Data Science.
   
-  Sinta-se à vontade para entrar em contato comigo se você compartilha uma paixão por dados, tecnologia ou apenas deseja trocar ideias. Estou sempre aberto a colaborações e discussões sobre temas relacionados a dados.
+  Sinta-se à vontade para entrar em contato comigo se você compartilha a paixão por dados, tecnologia ou apenas deseja trocar ideias. Estou sempre aberto a colaborações e discussões sobre temas relacionados a dados.
 
 </details><br>
 
@@ -78,18 +78,7 @@ Feel free to connect with me if you share a passion for data, technology, or jus
     <img align="center" alt="Scikit-learn" width="40" height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   </div>         
   -->
-## **GitHub Statistics**
-<div align="center">
-  <a href="https://github.com/william-clnunes">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=william-clnunes&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&bg_color=011727&title_color=c08fe5&icon_color=4cdfd2&text_color=feb5bd&rank_icon=github"
-    width="400em" 
-  />  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-clnunes&layout=compact&bg_color=011727&title_color=c08fe5&icon_color=4cdfd2&text_color=feb5bd"
-    width="400em"
-  />
-</div>
+
     
 <!--
 **william-clnunes/william-clnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
