@@ -78,7 +78,7 @@ Feel free to connect with me if you share a passion for data, technology, or jus
     <img align="center" alt="Scikit-learn" width="40" height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   </div>         
   -->
-
+<!--
 ## **GitHub Statistics**
 <div align="center">
   <a href="https://github.com/william-clnunes">
@@ -91,7 +91,7 @@ Feel free to connect with me if you share a passion for data, technology, or jus
     width="400em"
   />
 </div>
-
+-->
 <!--
 **william-clnunes/william-clnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
